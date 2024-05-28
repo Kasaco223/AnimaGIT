@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/All/Scenes/Start.unity
+    guid: 46da99ae361324e47aeb4379dd82faa6
+  - enabled: 1
+    path: Assets/All/Scenes/1.unity
+    guid: c4eb1c41bec31134dbac8c2be6bdc8ee
+  - enabled: 1
+    path: Assets/All/Scenes/2.unity
+    guid: c087673c0e8b99f4baba6b63489e52d1
+  - enabled: 1
+    path: Assets/All/Scenes/3.unity
+    guid: d212fa67e5709a345b1113a25bdac252
+  - enabled: 1
+    path: Assets/All/Scenes/4.unity
+    guid: 31d648236984ffc42b59e92adbb021af
+  - enabled: 1
+    path: Assets/All/Scenes/5.unity
+    guid: bd2e7132291a7b94d9d0e4482ce0f358
+  - enabled: 1
+    path: Assets/All/Scenes/6.unity
+    guid: d5c67434e5e68d0468faf4af2f0a6b11
+  - enabled: 1
+    path: Assets/All/Scenes/7.unity
+    guid: 97fa4b71415f3b748a154c4e9f664085
+  - enabled: 1
+    path: Assets/All/Scenes/8.unity
+    guid: 805b488747de56d46bca0224faa61e82
+  - enabled: 1
+    path: Assets/All/Scenes/Ruleta.unity
+    guid: ff89c41e5e98cb946848c2cf0dc2e80b
+  - enabled: 1
+    path: Assets/All/Scenes/Tutorial.unity
+    guid: ee4915c3e731f68448630f510227ef56
+  - enabled: 1
+    path: Assets/All/Scenes/Win.unity
+    guid: dac08b830a47fc041880e00e8bb7a788
+  - enabled: 1
+    path: Assets/All/Scenes/Lose.unity
+    guid: 7ab252ea1863f7c46aadd1b15efaf45b
+  - enabled: 1
+    path: Assets/All/Scenes/RELOSE.unity
+    guid: 911c4011da540814687262da48402bc8
+  - enabled: 1
+    path: Assets/All/Scenes/REWIN.unity
+    guid: d726a66a6293f3b4a9947986f6e459ba
+  m_configObjects: {}
